@@ -1,6 +1,6 @@
-int LED_1 = 13;
-int LED_2 = 12;
-int LED_3 = 11;
+int LED_1 = 12;
+int LED_2 = 11;
+int LED_3 = 10;
 
 void setup() {
 
